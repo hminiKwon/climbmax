@@ -2,7 +2,6 @@ import Link from "next/link";
 
 const menu = [
     { href: "/about", title: "About" },
-    { href: "/firstVisit", title: "첫방문" },
     { href: "/membership", title: "회원권" },
     { href: "/teachers", title: "강사진" },
     { href: "/branch", title: "지점소개" },

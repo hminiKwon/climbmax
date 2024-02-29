@@ -31,7 +31,7 @@ export default function Home() {
                 <Image
                     className="object-cover"
                     src="/images/main.jpeg"
-                    alt="climbmax"
+                    alt="ClimbMax"
                     priority
                     fill
                     sizes="750px"
